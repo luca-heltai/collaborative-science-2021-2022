@@ -6,6 +6,16 @@
 
 - Luca Heltai (<luca.heltai@sissa.it>)
 
+All lectures are live in Room A-134, and broadcasted on Zoom and YouTube.
+
+https://sissa-it.zoom.us/j/81471012769?pwd=QnNiZnVtbUxvNENybXlPNWVsT1hmQT09
+
+Meeting ID: 814 7101 2769
+Passcode: GitRules
+
+The official course page, with the schedule and up-to-date information is 
+
+https://www.math.sissa.it/course/phd-course/collaborative-science-2021-2022
 ## Course information
 
 Collaboration (or *the action of working with someone to produce something*) is one of the fundamental pillars in Science.
