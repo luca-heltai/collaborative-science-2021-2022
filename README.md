@@ -78,6 +78,10 @@ Particular attention will be dedicated to reproducibility, providing a safe way 
 -   Pro Git, Scott Chacon, 
     [\[E-Book-ENG\]](https://github.com/progit/progit2/releases/download/2.1.331/progit.pdf)
 
+-   Git Immersion [\[Interactive Site\]](https://gitimmersion.com/)
+
+-   Learn git branching [\[Interactive Site\]](https://learngitbranching.js.org/)
+
 ## A final note
 
 This repository contains assignements, workspaces, and other material for the course "An introduction to modern tools for collaborative science"
